@@ -17,3 +17,6 @@ Module 3 finally provides better logic for draft declaration. In the base game, 
 that more RS SO, JR, and RS JR players will declare when their overall is high enough.
 
 The ProgressionRegression.py file is the master file that implements the three modules and contains the GUI. 
+
+cmdscript.bat is a batch file which runs a command to compact the modules into an executable file, ProgressionRegressionl.exe.
+This allows users to run the scripts on any computer without needing the python source code available.
